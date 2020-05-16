@@ -2,7 +2,7 @@
     pageEncoding="ISO-8859-1"%>
  
          <h1>Welcome to Online Pizza Ordering System</h1> 
-         <h3>Developed and Managed by Deep Patel</h3> 
+         <h3>Developed and Managed by Daksh Patel</h3> 
          <hr> 
          <form method='Post' action='FrontDoor' > 
         <c:choose>
